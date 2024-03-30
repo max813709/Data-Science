@@ -10,6 +10,16 @@ Manipulates the data, utilizes a decision tree and random forect to manuipulate 
 
 [Microsoft PowerPoint]: Used to store customer information and is the environment for the macro.
 
+
+
+## <strong> Features </strong> ##
+• Utilizes a Data Dictionary
+•	Explores which dates are the busiest and should attract more people versus what days we should try to attract more people
+•	Identified the percentage of bookings made online versus offline and highlights any trends or insights that can inform business strategies.
+•	Analyzes the percentage of bookings that are cancelled. 
+•	Examined the influence of special requests on booking cancellations and devise effective strategies to mitigate cancellation rates when customers make such requests.
+•	Based on the data the business owner should host promotions on the days of the week that show promise but fail to attract as amny customers as other more lucrative days. Discounts and giveaways should be taken intyo consideration.
+
 ![]()<img width="723" alt="image" src="https://github.com/matthew813709/Gitimages/blob/c387592422c5c7847cfd3ab0e6ed7f022cb6aa1d/2024-03-30%2011.33.19.png">
 ![]()<img width="723" alt="image" src="https://github.com/matthew813709/Gitimages/blob/2ba5dc78c6b828903dcd01ce6ff2805238f9850b/2024-03-30%2011.35.05.png">
 ![]()<img width="723" alt="image" src="https://github.com/matthew813709/Gitimages/blob/77f91462582d07a01b710a609117583e3d6bcaaf/2024-03-30%2011.36.33.png">
@@ -21,14 +31,6 @@ Manipulates the data, utilizes a decision tree and random forect to manuipulate 
 ![]()<img width="723" alt="image" src="https://github.com/matthew813709/Gitimages/blob/ef87b176533ef8a78e3e78f640edc3e6940ce703/2024-03-30%2011.45.16.png">
 ![]()<img width="723" alt="image" src="https://github.com/matthew813709/Gitimages/blob/ff7f0113b1dd5fb2a3a177d3bf85e81d67361773/2024-03-30%2011.46.17.png">
 
-
-## <strong> Features </strong> ##
-• Utilizes a Data Dictionary
-•	Explores which dates are the busiest and should attract more people versus what days we should try to attract more people
-•	Identified the percentage of bookings made online versus offline and highlights any trends or insights that can inform business strategies.
-•	Analyzes the percentage of bookings that are cancelled. 
-•	Examined the influence of special requests on booking cancellations and devise effective strategies to mitigate cancellation rates when customers make such requests.
-•	Based on the data the business owner should host promotions on the days of the week that show promise but fail to attract as amny customers as other more lucrative days. Discounts and giveaways should be taken intyo consideration.
 
 
 ## <strong> Contributors </strong> ##
