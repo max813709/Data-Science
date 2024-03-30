@@ -21,7 +21,7 @@ Manipulates the data, utilizes a decision tree and random forect to manuipulate 
 • Utilizes a Data Dictionary
 •	There is about a 10% rate of spam messages compared to the approximately 90% messages that are not spam. We handle this imbalance by acknowledging that most spam messages are not marketed after text people and that spam messages use other ways to interact with consumers.
 •	Utilizes a wordcloud, which helps visualize the commonly used phrases and words in the SMS messages looked at for this study. They are altered based on frequency and visualized as more distinct based on this. It helps us visualize distinctly the words sent via SMS.
-•	We can also see the words which contributed the most to the classifying the review as positive or  negative.  For  example,  we  can  observe  words  like high,  unusual,  outrageously, etc. contributed to the sentiments being negative (score is less than 0). 
+•	We can also see the words which contributed the most to the classifying the review as positive or  negative.  For  example,  we  can  observe  words  like high,  unusual,  outrageously, etc. contributed to the sentiments being negative (score is less than 0).
 •	Our computed sentiment scores also show a correlation with the original product ratings the reviewers gave between 1 and 5. The higher the rating, the higher the average sentiment of the reviews in that rating.
 This gives us confidence that the reviews are represented somewhat well by the ratings, and that the SentiWordNet sentiment analysis algorithm has worked well.
 •	The model performs very well on the training and testing data, in terms of both the Precision and the Recall.
