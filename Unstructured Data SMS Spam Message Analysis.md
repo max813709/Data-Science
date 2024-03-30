@@ -13,9 +13,7 @@ Manipulates the data, utilizes a decision tree and random forect to manuipulate 
 ![]()<img width="723" alt="image" src="https://github.com/matthew813709/Gitimages/blob/ded8c956638f8d0e6783f7b8fe0321c4e7b56469/2024-03-30%2011.56.30.png">
 ![]()<img width="723" alt="image" src="https://github.com/matthew813709/Gitimages/blob/13fa5e69ce4f748ec9b835c252a9b0d8cb643406/2024-03-30%2011.57.53.png">
 ![]()<img width="723" alt="image" src="https://github.com/matthew813709/Gitimages/blob/b7268aad2530c825ba9f17d706c5ed2205a8c595/2024-03-30%2011.59.04.png">
-![]()<img width="723" alt="image" src="https://github.com/matthew813709/Gitimages/blob/c0661a62b8c8eb702f588738a4d3ceaf360e8696/2024-03-30%2012.00.21.png">
-![]()<img width="723" alt="image" src="https://github.com/matthew813709/Gitimages/blob/32f6549fa04acf97e65a5b4c6f460c73d525962d/2024-03-30%2012.02.17.png">
-![]()<img width="723" alt="image" src="https://github.com/matthew813709/Gitimages/blob/e5b3ea712c8fd5f1463705f9e1a541da516d3ad4/2024-03-30%2012.03.59.png">
+
 
 ## <strong> Features </strong> ##
 • Utilizes a Data Dictionary
@@ -30,6 +28,10 @@ This gives us confidence that the reviews are represented somewhat well by the r
 • The company should establish more channels for receiving feedback from the younger age group in order to better understand their needs and tailor products accordingly.
 • SMS messages targeted to resemble not spam messages should be targettted and personalized informally to maximize this need to market using spam sms messages.
 • Through spam SMS messages the company can target people of different age groups by tailoring their messages to the way a user writes and offer special promotions to attract consumers.
+
+![]()<img width="723" alt="image" src="https://github.com/matthew813709/Gitimages/blob/c0661a62b8c8eb702f588738a4d3ceaf360e8696/2024-03-30%2012.00.21.png">
+![]()<img width="723" alt="image" src="https://github.com/matthew813709/Gitimages/blob/32f6549fa04acf97e65a5b4c6f460c73d525962d/2024-03-30%2012.02.17.png">
+![]()<img width="723" alt="image" src="https://github.com/matthew813709/Gitimages/blob/e5b3ea712c8fd5f1463705f9e1a541da516d3ad4/2024-03-30%2012.03.59.png">
 
 
 ## <strong> Contributors </strong> ##
