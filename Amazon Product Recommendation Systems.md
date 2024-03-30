@@ -2,7 +2,7 @@
 
 ## <strong> Description </strong> ##
 
-Manipulates the data, utilizes a decision tree and random forect to manuipulate the data in a user friendly way.
+Extracts insights to understand Amazon shopping data in a user-friendly way.
 
 ## <strong> Technologies Used </strong> ##
 
@@ -17,7 +17,6 @@ Manipulates the data, utilizes a decision tree and random forect to manuipulate 
 
 ## <strong> Features </strong> ##
 • Utilizes a Data Dictionary.
-• Extracts insights to understand Amazon shopping data.
 • Builds a Recommendation System model using different techniques to predict ratings and recommend businesses to users.
 • Compares different models based on various performance metrics and choose the optimal.
 • Content-based recommendation systems use the features of the item (and/or users) provided in the dataset.
