@@ -8,7 +8,7 @@ Manipulates the data, utilizes a decision tree and random forect to manuipulate 
 
 [RapidMiner Studio V.10.3.1](https://www.uipath.com/product/studio): Development Environment.
 
-[Microsoft PowerPoint]: Used to store customer information.
+[Microsoft Excel]: Used to store customer information.
 
 
 
