@@ -8,7 +8,7 @@ Manipulates the data, utilizes a decision tree and random forect to manuipulate 
 
 [RapidMiner Studio V.10.3.1](https://www.uipath.com/product/studio): Development Environment.
 
-[Microsoft PowerPoint]: Used to store customer information and is the environment for the macro.
+[Microsoft Excel]: Used to store customer information.
 
 ![]()<img width="723" alt="image" src="https://github.com/matthew813709/Gitimages/blob/ded8c956638f8d0e6783f7b8fe0321c4e7b56469/2024-03-30%2011.56.30.png">
 ![]()<img width="723" alt="image" src="https://github.com/matthew813709/Gitimages/blob/13fa5e69ce4f748ec9b835c252a9b0d8cb643406/2024-03-30%2011.57.53.png">
