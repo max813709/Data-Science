@@ -1,4 +1,4 @@
-# <strong> Amazon Product Recommendation System Using Recommendation Systems in RapidMiner </strong> #
+# <strong> Amazon Product Recommendation System Using RapidMiner </strong> #
 
 ## <strong> Description </strong> ##
 
@@ -8,7 +8,7 @@ Extracts insights to understand Amazon shopping data in a user-friendly way.
 
 [RapidMiner Studio V.10.3.1](https://www.uipath.com/product/studio): Development Environment.
 
-[Microsoft PowerPoint]: Used to store customer information and is the environment for the macro.
+[Microsoft PowerPoint]: Used to store customer information.
 
 ## <strong> Features </strong> ##
 • Utilizes a Data Dictionary.
