@@ -2,7 +2,7 @@
 
 ## <strong> Description </strong> ##
 
-Manipulates the data, utilizes a decision tree and random forect to manuipulate the data in a user friendly way.
+Manipulates the data, utilizes a decision tree and random forect to manipulate the data in a user friendly way.
 
 ## <strong> Technologies Used </strong> ##
 
