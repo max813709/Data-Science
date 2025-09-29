@@ -35,7 +35,7 @@ This gives us confidence that the reviews are represented somewhat well by the r
 
 
 ## <strong> Contributors </strong> ##
-Matthew Emsak
+Max Emsak
 
 ## <strong> License </strong> ##
 This project uses the following license: MiT.
