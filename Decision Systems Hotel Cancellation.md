@@ -34,7 +34,7 @@ Manipulates the data, utilizes a decision tree and random forect to manuipulate 
 
 
 ## <strong> Contributors </strong> ##
-Matthew Emsak
+Max Emsak
 
 ## <strong> License </strong> ##
 This project uses the following license: MiT.
