@@ -31,7 +31,7 @@ Extracts insights to understand Amazon shopping data in a user-friendly way.
 
 
 ## <strong> Contributors </strong> ##
-Matthew Emsak
+Max Emsak
 
 ## <strong> License </strong> ##
 This project uses the following license: MiT.
